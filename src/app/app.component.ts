@@ -7,4 +7,6 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'test-qrhtml5';
+
+  handleQrCode(code: any){}
 }
